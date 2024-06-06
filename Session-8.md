@@ -23,8 +23,11 @@
   
 * usermod [username]- modify or changes exiting user acc.
 - l- login- Change the login name of the user. This changes the username of the user account.
--  usermod -l new_username old_username
-
+- #### Syntax-
+ usermod -l new_username old_username
+- -u- to change user_id
+#### Syntax-
+ usermod -u newid username
 * userdel [username]- delete exiting user acc
 # Password Management-
 ## passwd: 
