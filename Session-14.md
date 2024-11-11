@@ -11,7 +11,7 @@
 - -f -> file name. (Compulsory option)
 - -v -> verbose or view.
 - -t -> list the content from archive.
-- -x -> execute the content from archive.
+- -x -> execute/extract the content from archive.
 - -C -> copy content from an archive to another directory.
 
 # Compression-
